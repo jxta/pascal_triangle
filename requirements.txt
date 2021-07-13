@@ -1,8 +1,7 @@
 matplotlib
-networkx
-pydot
 nbval
 git+git://github.com/networkx/networkx@main
+pydot
 sphinx
 myst-nb
 pydata-sphinx-theme
