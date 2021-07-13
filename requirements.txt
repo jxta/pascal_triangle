@@ -1,5 +1,6 @@
 matplotlib
 networkx
+pydot
 nbval
 git+git://github.com/networkx/networkx@main
 sphinx
