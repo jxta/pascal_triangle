@@ -1,5 +1,5 @@
 matplotlib
-pygraphviz
+networkx
 nbval
 git+git://github.com/networkx/networkx@main
 sphinx
